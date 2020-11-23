@@ -58,22 +58,9 @@
       <recent name="C:\dongruanshixun\shixun\shixunjava\lbw\lbww\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JDBCDemo6">
+  <component name="RunManager" selected="Application.JDBCDemo7">
     <configuration name="JDBCDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.neusoft.JDBCDemo1" />
-      <module name="lbww" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.neusoft.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JDBCDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.neusoft.JDBCDemo3" />
       <module name="lbww" />
       <extension name="coverage">
         <pattern>
@@ -111,6 +98,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="JDBCDemo7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.neusoft.JDBCDemo7" />
+      <module name="lbww" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.neusoft.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="JDBCUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.neusoft.utils.JDBCUtils" />
       <module name="lbww" />
@@ -126,18 +126,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.JDBCDemo1" />
-      <item itemvalue="Application.JDBCDemo3" />
       <item itemvalue="Application.JDBCDemo5" />
       <item itemvalue="Application.JDBCDemo6" />
       <item itemvalue="Application.JDBCUtils" />
+      <item itemvalue="Application.JDBCDemo7" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JDBCDemo7" />
         <item itemvalue="Application.JDBCDemo6" />
         <item itemvalue="Application.JDBCUtils" />
         <item itemvalue="Application.JDBCDemo5" />
         <item itemvalue="Application.JDBCDemo1" />
-        <item itemvalue="Application.JDBCDemo3" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +153,8 @@
       <updated>1605689503132</updated>
       <workItem from="1605689506597" duration="2118000" />
       <workItem from="1605691668438" duration="21000" />
-      <workItem from="1605747890558" duration="15362000" />
+      <workItem from="1605747890558" duration="19989000" />
+      <workItem from="1605834796316" duration="2878000" />
     </task>
     <servers />
   </component>
@@ -170,51 +171,75 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="214" y="103" key="#com.intellij.ide.util.MemberChooser" timestamp="1605754114121">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="214" y="103" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1605754114121" />
-    <state width="792" height="153" key="GridCell.Tab.0.bottom" timestamp="1605773101584">
+    <state x="192" y="58" key="FileChooserDialogImpl" timestamp="1605835702837">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="792" height="153" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1605773101584" />
-    <state width="792" height="153" key="GridCell.Tab.0.center" timestamp="1605773101584">
+    <state x="192" y="58" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1605835702837" />
+    <state width="792" height="153" key="GridCell.Tab.0.bottom" timestamp="1605778188877">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="792" height="153" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1605773101584" />
-    <state width="792" height="153" key="GridCell.Tab.0.left" timestamp="1605773101584">
+    <state width="792" height="153" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1605778188877" />
+    <state width="792" height="153" key="GridCell.Tab.0.center" timestamp="1605778188877">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="792" height="153" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1605773101584" />
-    <state width="792" height="153" key="GridCell.Tab.0.right" timestamp="1605773101584">
+    <state width="792" height="153" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1605778188877" />
+    <state width="792" height="153" key="GridCell.Tab.0.left" timestamp="1605778188877">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="792" height="153" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1605773101584" />
-    <state width="792" height="153" key="GridCell.Tab.1.bottom" timestamp="1605773101585">
+    <state width="792" height="153" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1605778188877" />
+    <state width="792" height="153" key="GridCell.Tab.0.right" timestamp="1605778188877">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="792" height="153" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1605773101585" />
-    <state width="792" height="153" key="GridCell.Tab.1.center" timestamp="1605773101584">
+    <state width="792" height="153" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1605778188877" />
+    <state width="792" height="153" key="GridCell.Tab.1.bottom" timestamp="1605778188878">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="792" height="153" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1605773101584" />
-    <state width="792" height="153" key="GridCell.Tab.1.left" timestamp="1605773101584">
+    <state width="792" height="153" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1605778188878" />
+    <state width="792" height="153" key="GridCell.Tab.1.center" timestamp="1605778188878">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="792" height="153" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1605773101584" />
-    <state width="792" height="153" key="GridCell.Tab.1.right" timestamp="1605773101584">
+    <state width="792" height="153" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1605778188878" />
+    <state width="792" height="153" key="GridCell.Tab.1.left" timestamp="1605778188878">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="792" height="153" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1605773101584" />
+    <state width="792" height="153" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1605778188878" />
+    <state width="792" height="153" key="GridCell.Tab.1.right" timestamp="1605778188878">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="792" height="153" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1605778188878" />
     <state x="0" y="9" key="SettingsEditor" timestamp="1605751941468">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="0" y="9" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1605751941468" />
+    <state x="0" y="8" width="827" height="621" key="new project wizard" timestamp="1605835724140">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="0" y="8" width="827" height="621" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1605835724140" />
+    <state x="76" y="182" key="run.anything.popup" timestamp="1605775059590">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="76" y="182" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1605775059590" />
     <state x="60" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1605691515105">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="60" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1605691515105" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/neusoft/JDBCDemo7.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
