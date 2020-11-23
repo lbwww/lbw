@@ -44,10 +44,10 @@ public class ElmAdminEntry {
                         businessView.selectBusinesses();
                         break;
                     case 3:
-                        System.out.println("搜索商家");
+                        businessView.saveBusiness();
                         break;
                     case 4:
-                        System.out.println("搜索商家");
+                        businessView.removeBusiness();
                         break;
                     case 5:
                         System.out.println("欢迎下次登录");
@@ -55,7 +55,6 @@ public class ElmAdminEntry {
                     default:
                         System.out.println("没有这个选项");
                         break;
-
                 }
             }
 
