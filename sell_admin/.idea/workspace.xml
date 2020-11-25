@@ -60,7 +60,20 @@
       <recent name="C:\dongruanshixun\shixun\shixunjava\lbw\sell_admin" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ElmAdminEntry">
+  <component name="RunManager" selected="Application.BusinessAdminEntry">
+    <configuration name="BusinessAdminEntry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.neusoft.BusinessAdminEntry" />
+      <module name="sell_admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.neusoft.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ElmAdminEntry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.neusoft.ElmAdminEntry" />
       <module name="sell_admin" />
@@ -101,9 +114,11 @@
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.ElmAdminEntry" />
+      <item itemvalue="Application.BusinessAdminEntry" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BusinessAdminEntry" />
         <item itemvalue="Application.ElmAdminEntry" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Main" />
@@ -120,7 +135,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605835724505</updated>
-      <workItem from="1605835770546" duration="14831000" />
+      <workItem from="1605835770546" duration="17409000" />
+      <workItem from="1606179914793" duration="1723000" />
+      <workItem from="1606296294034" duration="273000" />
     </task>
     <servers />
   </component>
@@ -137,23 +154,28 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="765" height="146" key="GridCell.Tab.0.bottom" timestamp="1606116865448">
+    <state width="765" height="108" key="GridCell.Tab.0.bottom" timestamp="1606296566400">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="765" height="146" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1606116865448" />
-    <state width="765" height="146" key="GridCell.Tab.0.center" timestamp="1606116865447">
+    <state width="765" height="108" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1606296566400" />
+    <state width="765" height="108" key="GridCell.Tab.0.center" timestamp="1606296566400">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="765" height="146" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1606116865447" />
-    <state width="765" height="146" key="GridCell.Tab.0.left" timestamp="1606116865447">
+    <state width="765" height="108" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1606296566400" />
+    <state width="765" height="108" key="GridCell.Tab.0.left" timestamp="1606296566400">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="765" height="146" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1606116865447" />
-    <state width="765" height="146" key="GridCell.Tab.0.right" timestamp="1606116865447">
+    <state width="765" height="108" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1606296566400" />
+    <state width="765" height="108" key="GridCell.Tab.0.right" timestamp="1606296566400">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="765" height="146" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1606116865447" />
+    <state width="765" height="108" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1606296566400" />
+    <state x="-12" y="169" width="835" height="592" key="new project wizard" timestamp="1606181603882">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="-12" y="169" width="835" height="592" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1606181603882" />
   </component>
 </project>
